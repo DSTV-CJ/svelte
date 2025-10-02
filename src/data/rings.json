@@ -1,0 +1,125 @@
+[
+    {
+        "id": "emma-001",
+        "name": "Emma Halo",
+        "basePrice": 2200,
+        "description": "A classic solitaire with optional halo setting",
+        "media": {
+            "color": "public/media/rings/emma-oval",
+            "gold": "public/media/rings/emma-gold",
+            "silver": "public/media/rings/emma-silver"
+        },
+        "metals": ["white gold", "yellow gold", "silver"],
+        "supportHalo": true,
+        "supportSideStones": true,
+        "category": "engagement",
+        "Stones": {
+            "Center": {
+                "Gem": "Diamond",
+                "Price": 1000
+            },
+            "Side": {
+                "Gem": "rubie",
+                "Price": 800
+            }
+        },
+        "caratRange":"0.5-2.0"
+        
+    },
+    {
+        "id": "sophia-002",
+        "name": "Sophia Vintage",
+        "basePrice": 1800,
+        "description": "Vintage-inspired setting with intricate details",
+        "media": {
+            "color": "public/media/rings/sophia-rose",
+            "gold": "public/media/rings/sophia-gold",
+            "silver": "public/media/rings/sophia-silver"
+        },
+        "metals": ["yellow gold", "rose gold", "silver"],
+        "supportHalo": false,
+        "supportSideStones": false,
+        "category": "engagement",
+        "Stones": {
+            "Center": {
+                "Gem": "Diamond",
+                "Price": 1000
+            },
+            "Side": null
+        },
+        "caratRange":"0.8-1.0"
+        
+    },
+    {
+        "id": "jamie-003",
+        "name": "Jamie Halo Deluxe",
+        "basePrice": 2500,
+        "description": "An upgraded Jamie design featuring a double halo and premium band.",
+        "media": {
+            "color": null,
+            "gold": "public/media/rings/jamie-gold",
+            "silver": "public/media/rings/jamie-silver"
+        },
+        "metals": ["yellow gold", "silver"],
+        "supportHalo": true,
+        "supportSideStones": false,
+        "category": "engagement",
+        "Stones": {
+            "Center": {
+                "Gem": "Sapphire",
+                "Price": 1200
+            },
+            "Side": null
+        },
+        "caratRange": "1.0-3.0"
+    },
+    {
+        "id": "aurora-004",
+        "name": "Aurora Classic Band",
+        "basePrice": 1200,
+        "description": "A timeless wedding band with a smooth polished finish.",
+        "media": {
+            "color": "public/media/rings/aurora-rose",
+            "gold": "public/media/rings/aurora-gold",
+            "silver": "public/media/rings/aurora-silver"
+        },
+        "metals": ["rose gold", "yellow gold", "silver"],
+        "supportHalo": false,
+        "supportSideStones": false,
+        "category": "wedding",
+        "Stones": {
+            "Center": {
+                "Gem": "None",
+                "Price": 0
+            },
+            "Side": null
+        },
+        "caratRange": "N/A"
+    },
+    {
+        "id": "celeste-005",
+        "name": "Celeste Eternity Band",
+        "basePrice": 2100,
+        "description": "A luxurious eternity wedding band featuring small diamonds all around.",
+        "media": {
+            "color": "public/media/rings/celeste-rose",
+            "gold": "public/media/rings/celeste-gold",
+            "silver": null
+        },
+        "metals": ["yellow gold", "rose gold"],
+        "supportHalo": false,
+        "supportSideStones": true,
+        "category": "wedding",
+        "Stones": {
+            "Center": {
+                "Gem": "None",
+                "Price": 0
+            },
+            "Side": {
+                "Gem": "Diamond",
+                "Price": 800
+            }
+        },
+        "caratRange": "0.2-0.5"
+    }
+]
