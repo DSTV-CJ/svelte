@@ -5,9 +5,9 @@
         "basePrice": 2200,
         "description": "A classic solitaire with optional halo setting",
         "media": {
-            "color": "media/rings/emma/emma-oval.png",
-            "gold": "media/rings/emma/emma-gold.png",
-            "silver": "media/rings/emma/emma-silver"
+            "color": "/media/rings/emma/emma-oval.png",
+            "gold": "/media/rings/emma/emma-gold.png",
+            "silver": "/media/rings/emma/emma-silver"
         },
         "metals": ["white gold", "yellow gold", "silver"],
         "supportHalo": true,
@@ -32,9 +32,9 @@
         "basePrice": 1800,
         "description": "Vintage-inspired setting with intricate details",
         "media": {
-            "color": "media/rings/sophia/sophia-rose",
-            "gold": "media/rings/sophia/sophia-gold",
-            "silver": "media/rings/sophia/sophia-silver"
+            "color": "/media/rings/sophia/sophia-rose",
+            "gold": "/media/rings/sophia/sophia-gold",
+            "silver": "/media/rings/sophia/sophia-silver"
         },
         "metals": ["yellow gold", "rose gold", "silver"],
         "supportHalo": false,
@@ -57,8 +57,8 @@
         "description": "An upgraded Jamie design featuring a double halo and premium band.",
         "media": {
             "color": null,
-            "gold": "media/rings/jamie/jamie-gold",
-            "silver": "media/rings/jamie/jamie-silver"
+            "gold": "/media/rings/jamie/jamie-gold",
+            "silver": "/media/rings/jamie/jamie-silver"
         },
         "metals": ["yellow gold", "silver"],
         "supportHalo": true,
@@ -79,9 +79,9 @@
         "basePrice": 1200,
         "description": "A timeless wedding band with a smooth polished finish.",
         "media": {
-            "color": "media/rings/aurora/aurora-rose",
-            "gold": "media/rings/aurora/aurora-gold",
-            "silver": "media/rings/aurora/aurora-silver"
+            "color": "/media/rings/aurora/aurora-rose",
+            "gold": "/media/rings/aurora/aurora-gold",
+            "silver": "/media/rings/aurora/aurora-silver"
         },
         "metals": ["rose gold", "yellow gold", "silver"],
         "supportHalo": false,
@@ -102,8 +102,8 @@
         "basePrice": 2100,
         "description": "A luxurious eternity wedding band featuring small diamonds all around.",
         "media": {
-            "color": "media/rings/celeste/celeste-rose",
-            "gold": "media/rings/celeste/celeste-gold",
+            "color": "/media/rings/celeste/celeste-rose.png",
+            "gold": "/media/rings/celeste/celeste-gold.png",
             "silver": null
         },
         "metals": ["yellow gold", "rose gold"],
