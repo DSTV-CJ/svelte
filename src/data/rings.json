@@ -7,7 +7,7 @@
         "media": {
             "color": "/media/rings/emma/emma-oval.png",
             "gold": "/media/rings/emma/emma-gold.png",
-            "silver": "/media/rings/emma/emma-silver"
+            "silver": "/media/rings/emma/emma-silver.png"
         },
         "metals": ["white gold", "yellow gold", "silver"],
         "supportHalo": true,
@@ -32,9 +32,9 @@
         "basePrice": 1800,
         "description": "Vintage-inspired setting with intricate details",
         "media": {
-            "color": "/media/rings/sophia/sophia-rose",
-            "gold": "/media/rings/sophia/sophia-gold",
-            "silver": "/media/rings/sophia/sophia-silver"
+            "color": "/media/rings/sophia/sophia-rose.mov",
+            "gold": "/media/rings/sophia/sophia-gold.png",
+            "silver": "/media/rings/sophia/sophia-silver,mov"
         },
         "metals": ["yellow gold", "rose gold", "silver"],
         "supportHalo": false,
@@ -57,8 +57,8 @@
         "description": "An upgraded Jamie design featuring a double halo and premium band.",
         "media": {
             "color": null,
-            "gold": "/media/rings/jamie/jamie-gold",
-            "silver": "/media/rings/jamie/jamie-silver"
+            "gold": "/media/rings/jamie/jamie-gold.mov",
+            "silver": "/media/rings/jamie/jamie-silver.png"
         },
         "metals": ["yellow gold", "silver"],
         "supportHalo": true,
@@ -79,9 +79,9 @@
         "basePrice": 1200,
         "description": "A timeless wedding band with a smooth polished finish.",
         "media": {
-            "color": "/media/rings/aurora/aurora-rose",
-            "gold": "/media/rings/aurora/aurora-gold",
-            "silver": "/media/rings/aurora/aurora-silver"
+            "color": "/media/rings/aurora/aurora-rose.mov",
+            "gold": "/media/rings/aurora/aurora-gold.png",
+            "silver": "/media/rings/aurora/aurora-silver.png"
         },
         "metals": ["rose gold", "yellow gold", "silver"],
         "supportHalo": false,
